@@ -40,7 +40,7 @@ myproject/
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/Alekse58/Rendigo.git
+   https://github.com/TaichiOne/rendigo.git
    cd Rendigo
 Создайте и активируйте виртуальное окружение:
 
