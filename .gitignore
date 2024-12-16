@@ -1,4 +1,4 @@
-# Python
+q# Python
 *.pyc
 *.pyo
 *.pyd
@@ -29,3 +29,6 @@ media
 # Docker
 *.log
 docker-compose.override.yml
+
+# JetBrains
+.idea/
