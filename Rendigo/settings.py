@@ -37,8 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "RendigoApp.apps.RendigoappConfig",
+    'RendigoApp.apps.RendigoappConfig',
     'rest_framework',
+    'drf_yasg'
 ]
 
 MIDDLEWARE = [
